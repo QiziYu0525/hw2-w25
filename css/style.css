@@ -50,13 +50,19 @@ div {
 }
 
 .blue {
-    h2{color: #dfdfdf;}
-    p{color: #dfdfdf;}
     background-color: blue;
     text-align: left;
     margin-right: 50px;
     border-bottom: 2px;
     border-left: 5px;
+}
+
+.blue h2 {
+    color: #dfdfdf;
+}
+
+.blue p {
+    color: #dfdfdf;
 }
 
 .yellow {
